@@ -3,8 +3,8 @@
 * [Добро пожаловать!](README.md)
 * [Ссылки на сообщества UniMice](social.md)
 
-## Основные гайды <a href="#guides" id="guides"></a>
+## ME7 <a href="#guides-me7" id="guides-me7"></a>
 
-* [Как установить лаунчер и войти (временная инструкция)](guides/launcher.md)
-* [Как установить скин (неактуально)](guides/set-skin-irrelevant.md)
-* [Как установить скин](guides/set-skin.md)
+* [Как установить лаунчер и войти (временная инструкция)](guides-me7/launcher.md)
+* [Как установить скин (неактуально)](guides-me7/set-skin-irrelevant.md)
+* [Как установить скин](guides-me7/set-skin.md)
